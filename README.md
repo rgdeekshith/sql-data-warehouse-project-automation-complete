@@ -64,7 +64,6 @@ python pipeline_orchestrator.py
 Open your database software (like SQL Server Management Studio or DBeaver) and run this simple query:
 
 ```SQL
--- Let's look at our shiny, business-ready Gold data!
 SELECT * FROM gold.dim_customers;
 ```
 

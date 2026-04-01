@@ -78,4 +78,4 @@ Python can't find your CSV files. **Solution:** Make sure your datasets/ folder 
 Python can't talk to your database. **Solution:** Check your .env file. Is your database turned on? Is the name spelled perfectly?
 
 --------------
-**Credit to where it's due, I have created this automation script using Google Gemini, any errors in the script are totally welcome and I am ready to learn and correct**
+**I utilized Google Gemini to assist in drafting this automation script as I am a very beginner in Python. Please feel free to point out any errors or areas for improvement; I always welcome the opportunity to learn from your feedback and ensure the script is optimized.**

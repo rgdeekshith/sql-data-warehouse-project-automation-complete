@@ -77,4 +77,5 @@ Python can't find your CSV files. **Solution:** Make sure your datasets/ folder 
 **"Connection Refused":** 
 Python can't talk to your database. **Solution:** Check your .env file. Is your database turned on? Is the name spelled perfectly?
 
+--------------
 **Credit to where it's due, I have created this automation script using Google Gemini, any errors in the script are totally welcome and I am ready to learn and correct**

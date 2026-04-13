@@ -54,7 +54,7 @@ DATABASE_URL=mssql+pyodbc://localhost/YourDatabaseName?driver=ODBC+Driver+17+for
 Note: Because of our .gitignore file, your .env file will stay hidden on your computer and won't upload to GitHub!
 
 ### Step 4: Run the Pipeline!
-Now for the fun part. Open your Terminal, navigate to this project folder, and tell Python to run the orchestrator:
+Open your Terminal, navigate to this project folder, and tell Python to run the orchestrator:
 
 ```bash
 python pipeline_orchestrator.py
